@@ -151,8 +151,8 @@ Contains fields such as:
 ---
 
 ## 📢 Author  
-**Brahmanaidu Naidu**  
-📧 Email: your_email@example.com  
+**Brahmanaidu **  
+📧 muchukuntlabrahmanaidu@gmail.com  
 📍 Data Analyst | Python Enthusiast | Future Innovator  
 
 ---
