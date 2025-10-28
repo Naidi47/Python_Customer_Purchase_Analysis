@@ -58,7 +58,7 @@ customer_purchase_project_with_dataset/
 
 ### 1️⃣ Clone or Download Repository  
 ```bash
-git clone https://github.com/your-username/customer_purchase_project_with_dataset.git
+git clone https://github.com/Naidi47/customer_purchase_project_with_dataset.git
 cd customer_purchase_project_with_dataset
 ```
 
